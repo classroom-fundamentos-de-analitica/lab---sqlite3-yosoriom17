@@ -38,3 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+SELECT 6 as "COUNT(*)"
